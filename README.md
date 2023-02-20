@@ -1,4 +1,4 @@
-# Artificial_Intelligence-
+# Artificial_Intelligence
 Nanyang Technological University CZ3005 Artificial Intelligence Lab Assignment
 
 Lab Assignment1
